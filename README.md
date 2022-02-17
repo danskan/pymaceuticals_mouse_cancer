@@ -1,11 +1,14 @@
 # pymaceuticals_mouse_cancer
 
-Observations are at the top of the "pymaceuticals_final" file.
+Observations are at the top of the "pymaceuticals_final" file. <br>
 Graphs are located in the Results directory
 
+
+<br>
+<br>
 ## Instructions
 
-Your tasks are to do the following:
+The pymaceuticals_final file accomplishes the following tasks:
 
 ### Initial Preparation
 
